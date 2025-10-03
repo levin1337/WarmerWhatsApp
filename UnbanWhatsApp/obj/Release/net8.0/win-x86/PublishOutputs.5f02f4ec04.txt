@@ -1,0 +1,2 @@
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\UnbanWhatsApp.pdb
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\UnbanWhatsApp.exe

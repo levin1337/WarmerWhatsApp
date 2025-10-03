@@ -1,0 +1,5 @@
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x64\UnbanWhatsApp.pdb
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x64\selenium-manager\linux\selenium-manager
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x64\selenium-manager\macos\selenium-manager
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x64\selenium-manager\windows\selenium-manager.exe
+D:\WarmerWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x64\UnbanWhatsApp.exe

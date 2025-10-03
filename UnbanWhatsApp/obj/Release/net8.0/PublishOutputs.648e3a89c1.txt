@@ -1,0 +1,17 @@
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\UnbanWhatsApp.exe
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\selenium-manager\linux\selenium-manager
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\selenium-manager\macos\selenium-manager
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\selenium-manager\windows\selenium-manager.exe
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\UnbanWhatsApp.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\UnbanWhatsApp.deps.json
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\UnbanWhatsApp.runtimeconfig.json
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\UnbanWhatsApp.pdb
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\DocumentFormat.OpenXml.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\SeleniumExtras.WaitHelpers.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\Microsoft.Office.Interop.Excel.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\WebDriver.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\System.IO.Packaging.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\System.Windows.Forms.Ribbon35.dll
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\Telegram.Bot.dll

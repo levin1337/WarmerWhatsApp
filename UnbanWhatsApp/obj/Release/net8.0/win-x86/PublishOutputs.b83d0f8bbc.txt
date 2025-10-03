@@ -1,0 +1,5 @@
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\UnbanWhatsApp.pdb
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\selenium-manager\linux\selenium-manager
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\selenium-manager\macos\selenium-manager
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\selenium-manager\windows\selenium-manager.exe
+C:\Users\HACKER\source\repos\UnbanWhatsApp\UnbanWhatsApp\bin\Release\net8.0\publish\win-x86\UnbanWhatsApp.exe
